@@ -7,14 +7,13 @@
     "revision": 0
   },
   "properties": {
-    "adMobAppId": "",
     "adaptGameResolutionAtRuntime": true,
     "folderProject": false,
     "linuxExecutableFilename": "",
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.gamename",
-    "projectFile": "C:\\Users\\GM\\Desktop\\Game-dev-master\\Juego\\game.json",
+    "projectFile": "C:\\Users\\GM\\Desktop\\Game-dev-master\\Game-dev-master\\Juego\\game.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
@@ -33,6 +32,7 @@
     "loadingScreen": {
       "showGDevelopSplash": true
     },
+    "extensionProperties": [],
     "extensions": [
       {
         "name": "BuiltinObject"
@@ -352,6 +352,186 @@
         "name": "Gunner_Green_run 6.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Media/Gunner_Black_run 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../Media/Gunner_Black_run 1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Media/Gunner_Black_run 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../Media/Gunner_Black_run 2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Media/Gunner_Black_Run 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../Media/Gunner_Black_Run 3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Media/Gunner_Black_Run 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../Media/Gunner_Black_Run 4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Media/Gunner_Black_Run 5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../Media/Gunner_Black_Run 5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Media/Gunner_Black_Run 6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../Media/Gunner_Black_Run 6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Media/Gunner_Black_idle 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../Media/Gunner_Black_idle 1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Media/Gunner_Black_idle 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../Media/Gunner_Black_idle 2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Media/Gunner_Black_idle 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../Media/Gunner_Black_idle 3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Media/Gunner_Black_idle 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../Media/Gunner_Black_idle 4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Media/Gunner_Black_idle 5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../Media/Gunner_Black_idle 5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Media/Victory.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../Media/Victory.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Media/Victory.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../../Media/Victory.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Lifes-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Lifes-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Gunner_Black_idle 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gunner_Black_idle 1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Gunner_Black_idle 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gunner_Black_idle 2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Gunner_Black_idle 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gunner_Black_idle 3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Gunner_Black_idle 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gunner_Black_idle 4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Gunner_Black_idle 5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Gunner_Black_idle 5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Game_over_screen.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Game_over_screen.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -361,7 +541,7 @@
   "variables": [
     {
       "name": "CameraSpeed",
-      "value": "1.5"
+      "value": "4"
     },
     {
       "name": "MoveCamera",
@@ -373,7 +553,7 @@
     },
     {
       "name": "BulletDirection",
-      "value": "1"
+      "value": "10"
     }
   ],
   "layouts": [
@@ -401,7 +581,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.5574
+        "zoomFactor": 0.4974
       },
       "objectsGroups": [],
       "variables": [],
@@ -417,7 +597,7 @@
           "width": 5003,
           "x": -1,
           "y": -1,
-          "zOrder": -1,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -457,14 +637,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 96,
+          "height": 46,
           "layer": "",
           "locked": false,
           "name": "EnemyA",
           "persistentUuid": "a1ccb845-9692-496a-9004-ee04a7a437c9",
-          "width": 96,
-          "x": 395,
-          "y": 346,
+          "width": 43,
+          "x": 306,
+          "y": 368,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -497,7 +677,7 @@
           "width": 825,
           "x": 5002,
           "y": -2,
-          "zOrder": 13,
+          "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -514,6 +694,390 @@
           "x": 5796,
           "y": -3,
           "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 27,
+          "layer": "",
+          "locked": false,
+          "name": "Stage_2",
+          "persistentUuid": "27c46d51-1dd5-4cb3-ad67-bef82d8e1cdd",
+          "width": 167,
+          "x": 1953,
+          "y": 30,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Stage_1",
+          "persistentUuid": "26f588c5-c317-4527-a4fa-45c1b5bf09f2",
+          "width": 0,
+          "x": 349,
+          "y": 29,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Stage_3",
+          "persistentUuid": "82730f04-2ffd-487a-a043-59386b76e714",
+          "width": 0,
+          "x": 3547,
+          "y": 25,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Victory",
+          "persistentUuid": "cc78bd29-417b-4d6a-b3d0-e65e2462b4e7",
+          "width": 0,
+          "x": 5220,
+          "y": 186,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "GUI",
+          "locked": false,
+          "name": "LifesBar",
+          "persistentUuid": "78000a13-8cc9-49ba-895c-5565c9ed0358",
+          "width": 195,
+          "x": 6,
+          "y": 102,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 25,
+          "layer": "GUI",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "3fce8807-8ace-4bdb-9c78-39b6b01168b8",
+          "width": 201,
+          "x": 3,
+          "y": 99,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "EnemyA",
+          "persistentUuid": "2b173e64-d5fc-45fd-aa3a-72057d66f3ad",
+          "width": 0,
+          "x": 549,
+          "y": 384,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "EnemyA",
+          "persistentUuid": "9e2444ff-87dd-4c07-a893-dd02cc1963fc",
+          "width": 0,
+          "x": 788,
+          "y": 371,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "EnemyB",
+          "persistentUuid": "043efc02-bed7-4645-acc6-1884aef503db",
+          "width": 0,
+          "x": 2086,
+          "y": 363,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "EnemyA",
+          "persistentUuid": "d8ca7467-50be-4ddb-aa02-ffa5ee990315",
+          "width": 0,
+          "x": 958,
+          "y": 361,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "EnemyA",
+          "persistentUuid": "c798c52d-8dba-43a7-a48e-884ccfb456fb",
+          "width": 0,
+          "x": 1177,
+          "y": 389,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "EnemyA",
+          "persistentUuid": "09c6e50c-7b2e-41dd-bc10-829392231ea7",
+          "width": 0,
+          "x": 1470,
+          "y": 371,
+          "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "EnemyB",
+          "persistentUuid": "8c6e0b90-2752-44fe-bc2f-9e671eaaf724",
+          "width": 0,
+          "x": 2378,
+          "y": 358,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "EnemyB",
+          "persistentUuid": "7b48b238-c016-4677-8eb9-08d7a7a4ed45",
+          "width": 0,
+          "x": 2564,
+          "y": 371,
+          "zOrder": 29,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "EnemyB",
+          "persistentUuid": "4752ffb1-7997-4dd3-827c-b19effb41f8f",
+          "width": 0,
+          "x": 2898,
+          "y": 366,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "EnemyA",
+          "persistentUuid": "10495882-a7de-4547-928d-a80844fc5ad5",
+          "width": 0,
+          "x": 3699,
+          "y": 385,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "EnemyB",
+          "persistentUuid": "6b77f18e-be0e-4fe4-9d7c-7ec330653ac6",
+          "width": 0,
+          "x": 3824,
+          "y": 381,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "EnemyA",
+          "persistentUuid": "d192a7e2-5521-4d0b-adaf-4d267e8effa1",
+          "width": 0,
+          "x": 4007,
+          "y": 365,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "EnemyB",
+          "persistentUuid": "51c2e07d-6aaf-4d0f-af97-cf9c04ced330",
+          "width": 0,
+          "x": 4168,
+          "y": 362,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "EnemyA",
+          "persistentUuid": "66026e17-697e-4930-8191-58feb42751ba",
+          "width": 0,
+          "x": 4247,
+          "y": 360,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "EnemyA",
+          "persistentUuid": "bdee144c-2346-48bb-9811-560b29b03d8c",
+          "width": 0,
+          "x": 4380,
+          "y": 360,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "EnemyB",
+          "persistentUuid": "06fc163f-83c3-4d39-a08f-e699ba3d8614",
+          "width": 0,
+          "x": 4519,
+          "y": 364,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "EnemyA",
+          "persistentUuid": "887933df-ff42-4dca-b690-5597447234c9",
+          "width": 0,
+          "x": 4663,
+          "y": 372,
+          "zOrder": 38,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "EnemyB",
+          "persistentUuid": "6a99c22a-d43e-4b60-aff9-47184a37db29",
+          "width": 0,
+          "x": 4801,
+          "y": 366,
+          "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -539,6 +1103,14 @@
             {
               "name": "isAttacking",
               "value": "0"
+            },
+            {
+              "name": "isMoving",
+              "value": "1"
+            },
+            {
+              "name": "Health",
+              "value": "100"
             }
           ],
           "behaviors": [
@@ -552,7 +1124,7 @@
               "name": "Health",
               "type": "Health::Health",
               "Health": 100,
-              "DamageCooldown": 2,
+              "DamageCooldown": 1,
               "MaxHealth": 100,
               "IsJustDamaged": false,
               "CooldownActive": false
@@ -578,6 +1150,270 @@
           ],
           "animations": [
             {
+              "name": "Running",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Gunner_Green_run 1.png",
+                      "points": [
+                        {
+                          "name": "Shotting",
+                          "x": 83.9746,
+                          "y": 36.1426
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7.12109,
+                            "y": 4.38672
+                          },
+                          {
+                            "x": 37.6875,
+                            "y": 3.48145
+                          },
+                          {
+                            "x": 38.2139,
+                            "y": 38.2686
+                          },
+                          {
+                            "x": 10.9453,
+                            "y": 39.0215
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Gunner_Green_run 2.png",
+                      "points": [
+                        {
+                          "name": "Shotting",
+                          "x": 83.9746,
+                          "y": 36.1426
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7.12109,
+                            "y": 4.38672
+                          },
+                          {
+                            "x": 37.6875,
+                            "y": 3.48145
+                          },
+                          {
+                            "x": 38.2139,
+                            "y": 38.2686
+                          },
+                          {
+                            "x": 10.9453,
+                            "y": 39.0215
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Gunner_Green_run 3.png",
+                      "points": [
+                        {
+                          "name": "Shotting",
+                          "x": 83.9746,
+                          "y": 36.1426
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7.12109,
+                            "y": 4.38672
+                          },
+                          {
+                            "x": 37.6875,
+                            "y": 3.48145
+                          },
+                          {
+                            "x": 38.2139,
+                            "y": 38.2686
+                          },
+                          {
+                            "x": 10.9453,
+                            "y": 39.0215
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Gunner_Green_run 4.png",
+                      "points": [
+                        {
+                          "name": "Shotting",
+                          "x": 83.9746,
+                          "y": 36.1426
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7.12109,
+                            "y": 4.38672
+                          },
+                          {
+                            "x": 37.6875,
+                            "y": 3.48145
+                          },
+                          {
+                            "x": 38.2139,
+                            "y": 38.2686
+                          },
+                          {
+                            "x": 10.9453,
+                            "y": 39.0215
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Gunner_Green_run 5.png",
+                      "points": [
+                        {
+                          "name": "Shotting",
+                          "x": 83.9746,
+                          "y": 36.1426
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7.12109,
+                            "y": 4.38672
+                          },
+                          {
+                            "x": 37.6875,
+                            "y": 3.48145
+                          },
+                          {
+                            "x": 38.2139,
+                            "y": 38.2686
+                          },
+                          {
+                            "x": 10.9453,
+                            "y": 39.0215
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Gunner_Green_run 6.png",
+                      "points": [
+                        {
+                          "name": "Shotting",
+                          "x": 83.9746,
+                          "y": 36.1426
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7.12109,
+                            "y": 4.38672
+                          },
+                          {
+                            "x": 37.6875,
+                            "y": 3.48145
+                          },
+                          {
+                            "x": 38.2139,
+                            "y": 38.2686
+                          },
+                          {
+                            "x": 10.9453,
+                            "y": 39.0215
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "name": "Shooting",
               "useMultipleDirections": false,
               "directions": [
@@ -588,7 +1424,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Gunner_Green_Idle 1.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Shotting",
+                          "x": 83.9746,
+                          "y": 36.1426
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -624,7 +1466,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Gunner_Green_Idle 2.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Shotting",
+                          "x": 83.9746,
+                          "y": 36.1426
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -660,7 +1508,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Gunner_Green_Idle 3.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Shotting",
+                          "x": 83.9746,
+                          "y": 36.1426
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -696,7 +1550,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Gunner_Green_Idle 4.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Shotting",
+                          "x": 83.9746,
+                          "y": 36.1426
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -732,7 +1592,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Gunner_Green_Idle 5.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "Shotting",
+                          "x": 83.9746,
+                          "y": 36.1426
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -768,120 +1634,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "name": "Running",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Gunner_Green_run 1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Gunner_Green_run 2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Gunner_Green_run 3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Gunner_Green_run 4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Gunner_Green_run 5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Gunner_Green_run 6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
             }
           ]
         },
@@ -909,26 +1661,7 @@
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "behaviors": [
-            {
-              "acceleration": 1500,
-              "canGrabPlatforms": false,
-              "deceleration": 1500,
-              "gravity": 1000,
-              "ignoreDefaultControls": true,
-              "jumpSpeed": 600,
-              "jumpSustainTime": 0.2,
-              "ladderClimbingSpeed": 150,
-              "maxFallingSpeed": 700,
-              "maxSpeed": 250,
-              "name": "PlatformerObject",
-              "roundCoordinates": true,
-              "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "xGrabTolerance": 10,
-              "yGrabOffset": 0
-            }
-          ],
+          "behaviors": [],
           "animations": [
             {
               "name": "bullet1",
@@ -1040,6 +1773,236 @@
           ]
         },
         {
+          "name": "EnemyB",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Health",
+              "type": "Health::Health",
+              "Health": 100,
+              "DamageCooldown": 0.5,
+              "MaxHealth": 100,
+              "IsJustDamaged": false,
+              "CooldownActive": false
+            },
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "Idle_Enemy",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Gunner_Black_idle 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 8
+                          },
+                          {
+                            "x": 37,
+                            "y": 8
+                          },
+                          {
+                            "x": 37,
+                            "y": 40
+                          },
+                          {
+                            "x": 5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Gunner_Black_idle 2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 8
+                          },
+                          {
+                            "x": 37,
+                            "y": 8
+                          },
+                          {
+                            "x": 37,
+                            "y": 40
+                          },
+                          {
+                            "x": 5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Gunner_Black_idle 3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 8
+                          },
+                          {
+                            "x": 37,
+                            "y": 8
+                          },
+                          {
+                            "x": 37,
+                            "y": 40
+                          },
+                          {
+                            "x": 5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Gunner_Black_idle 4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 8
+                          },
+                          {
+                            "x": 37,
+                            "y": 8
+                          },
+                          {
+                            "x": 37,
+                            "y": 40
+                          },
+                          {
+                            "x": 5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Gunner_Black_idle 5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 8
+                          },
+                          {
+                            "x": 37,
+                            "y": 8
+                          },
+                          {
+                            "x": 37,
+                            "y": 40
+                          },
+                          {
+                            "x": 5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "EnemyA",
           "tags": "",
           "type": "Sprite",
@@ -1076,16 +2039,16 @@
           ],
           "animations": [
             {
-              "name": "NewObject",
+              "name": "Idle_Enemy",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "looping": true,
+                  "timeBetweenFrames": 0.1,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewObject-1.png",
+                      "image": "Gunner_Black_idle 1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1101,20 +2064,164 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 16.6667,
-                            "y": 8.08334
+                            "x": 5,
+                            "y": 8
                           },
                           {
-                            "x": 47.3333,
-                            "y": 5.41667
+                            "x": 37,
+                            "y": 8
                           },
                           {
-                            "x": 46.6667,
-                            "y": 49.75
+                            "x": 35.0141,
+                            "y": 38.5536
                           },
                           {
-                            "x": 17.6667,
-                            "y": 50.4167
+                            "x": 5.43945,
+                            "y": 39.0766
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Gunner_Black_idle 2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 8
+                          },
+                          {
+                            "x": 37,
+                            "y": 8
+                          },
+                          {
+                            "x": 35.0141,
+                            "y": 38.5536
+                          },
+                          {
+                            "x": 5.43945,
+                            "y": 39.0766
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Gunner_Black_idle 3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 8
+                          },
+                          {
+                            "x": 37,
+                            "y": 8
+                          },
+                          {
+                            "x": 35.0141,
+                            "y": 38.5536
+                          },
+                          {
+                            "x": 5.43945,
+                            "y": 39.0766
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Gunner_Black_idle 4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 8
+                          },
+                          {
+                            "x": 37,
+                            "y": 8
+                          },
+                          {
+                            "x": 35.0141,
+                            "y": 38.5536
+                          },
+                          {
+                            "x": 5.43945,
+                            "y": 39.0766
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Gunner_Black_idle 5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 8
+                          },
+                          {
+                            "x": 37,
+                            "y": 8
+                          },
+                          {
+                            "x": 35.0141,
+                            "y": 38.5536
+                          },
+                          {
+                            "x": 5.43945,
+                            "y": 39.0766
                           }
                         ]
                       ]
@@ -1134,6 +2241,140 @@
           "width": 32,
           "variables": [],
           "behaviors": []
+        },
+        {
+          "bold": false,
+          "italic": true,
+          "name": "Stage_2",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Stage 2",
+          "font": "",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": true,
+          "name": "Stage_1",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Stage 1",
+          "font": "",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": true,
+          "name": "Stage_3",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Stage 3",
+          "font": "",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": true,
+          "italic": true,
+          "name": "Victory",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Victory",
+          "font": "",
+          "characterSize": 100,
+          "color": {
+            "b": 254,
+            "g": 19,
+            "r": 144
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Player_life",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "name": "LifesBar",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Lifes",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Lifes-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -1217,6 +2458,16 @@
                 "0"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "LifesBar"
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -1242,50 +2493,6 @@
             {
               "type": {
                 "inverted": false,
-                "value": "FlipX"
-              },
-              "parameters": [
-                "Player",
-                "yes"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "FlipX"
-              },
-              "parameters": [
-                "BulletA",
-                "yes"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "FlipX"
-              },
-              "parameters": [
-                "BulletB",
-                "yes"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "FlipX"
-              },
-              "parameters": [
-                "BulletC",
-                "yes"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "SetAnimationName"
               },
               "parameters": [
@@ -1302,7 +2509,7 @@
               "parameters": [
                 "BulletDirection",
                 "=",
-                "-1"
+                "1"
               ],
               "subInstructions": []
             }
@@ -1327,50 +2534,6 @@
             }
           ],
           "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "FlipX"
-              },
-              "parameters": [
-                "Player",
-                "no"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "FlipX"
-              },
-              "parameters": [
-                "BulletA",
-                "no"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "FlipX"
-              },
-              "parameters": [
-                "BulletB",
-                "no"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "FlipX"
-              },
-              "parameters": [
-                "BulletC",
-                "no"
-              ],
-              "subInstructions": []
-            },
             {
               "type": {
                 "inverted": false,
@@ -1459,8 +2622,8 @@
               "parameters": [
                 "Player",
                 "FireBullet",
-                "Player.PointX(\"Center\")",
-                "Player.PointY(\"Center\")",
+                "Player.PointX(\"Shotting.X\")+50",
+                "Player.PointY(\"Shotting.Y\")+16",
                 "BulletA",
                 "0",
                 "GlobalVariable(BulletDirection)*300",
@@ -1544,8 +2707,8 @@
               "parameters": [
                 "Player",
                 "FireBullet",
-                "Player.PointX(\"Center\")",
-                "Player.PointY(\"Center\")",
+                "Player.PointX(\"Shotting.X\")+50",
+                "Player.PointY(\"Shotting.Y\")+16",
                 "BulletB",
                 "0",
                 "GlobalVariable(BulletDirection)*600",
@@ -1629,8 +2792,8 @@
               "parameters": [
                 "Player",
                 "FireBullet",
-                "Player.PointX(\"Center\")",
-                "Player.PointY(\"Center\")",
+                "Player.PointX(\"Shotting.X\")+50",
+                "Player.PointY(\"Shotting.Y\")+16",
                 "BulletC",
                 "0",
                 "GlobalVariable(BulletDirection)*200",
@@ -1743,7 +2906,7 @@
               },
               "parameters": [
                 "Player",
-                "\"Shooting\""
+                "\"Running\""
               ],
               "subInstructions": []
             }
@@ -1935,6 +3098,195 @@
             {
               "type": {
                 "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "BulletA",
+                "EnemyB",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Health::Health::Hit"
+              },
+              "parameters": [
+                "EnemyB",
+                "Health",
+                "25",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "BulletA",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "BulletB",
+                "EnemyB",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Health::Health::Hit"
+              },
+              "parameters": [
+                "EnemyB",
+                "Health",
+                "25",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "BulletB",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "BulletC",
+                "EnemyB",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Health::Health::Hit"
+              },
+              "parameters": [
+                "EnemyB",
+                "Health",
+                "25",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "BulletC",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "EnemyB",
+                "Health",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "EnemyB",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Timer"
+              },
+              "parameters": [
+                "",
+                "1",
+                "\"DamageCooldown\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
                 "value": "BuiltinCommonInstructions::And"
               },
               "parameters": [],
@@ -1978,8 +3330,151 @@
               "parameters": [
                 "Player",
                 "Health",
-                "110",
+                "40",
                 ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "-",
+                "40"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeScaleWidth"
+              },
+              "parameters": [
+                "LifesBar",
+                "=",
+                "Player.Variable(Health)/25"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"DamageCooldown\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Timer"
+              },
+              "parameters": [
+                "",
+                "1.5",
+                "\"DamageCooldown\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::And"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "EnemyB",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "isAttacking",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Health::Health::Hit"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "60",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "-",
+                "60"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeScaleWidth"
+              },
+              "parameters": [
+                "LifesBar",
+                "=",
+                "Player.Variable(Health)/25"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"DamageCooldown\""
               ],
               "subInstructions": []
             }
@@ -2019,10 +3514,72 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Player",
+                "isMoving",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "Player_life",
+                "=",
+                "Player.X()",
+                "=",
+                "Player.Y()-50"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "Player_life",
+                "=",
+                "Player.VariableString(Player)"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
         }
       ],
       "layers": [
         {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
           "name": "",
           "visibility": true,
           "cameras": [
@@ -2037,6 +3594,17 @@
               "width": 0
             }
           ],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "GUI",
+          "visibility": true,
+          "cameras": [],
           "effects": []
         }
       ],
@@ -2060,18 +3628,18 @@
       ]
     },
     {
-      "b": 194,
+      "b": 0,
       "disableInputWhenNotFocused": true,
       "mangledName": "GameOver",
       "name": "GameOver",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
-      "r": 80,
+      "r": 0,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 227,
+      "v": 0,
       "uiSettings": {
         "grid": false,
         "gridB": 255,
@@ -2087,11 +3655,73 @@
       },
       "objectsGroups": [],
       "variables": [],
-      "instances": [],
-      "objects": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 354,
+          "layer": "",
+          "locked": false,
+          "name": "GameOver_screen",
+          "persistentUuid": "5bde094c-599f-4d00-b753-1b5a68d51cee",
+          "width": 628,
+          "x": 91,
+          "y": 53,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "name": "GameOver_screen",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "GameOver_screen",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Game_over_screen.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "events": [],
       "layers": [
         {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
           "name": "",
           "visibility": true,
           "cameras": [
