@@ -541,7 +541,7 @@
   "variables": [
     {
       "name": "CameraSpeed",
-      "value": "4"
+      "value": "1.5"
     },
     {
       "name": "MoveCamera",
@@ -553,7 +553,7 @@
     },
     {
       "name": "BulletDirection",
-      "value": "10"
+      "value": "1"
     }
   ],
   "layouts": [
@@ -1107,10 +1107,6 @@
             {
               "name": "isMoving",
               "value": "1"
-            },
-            {
-              "name": "Health",
-              "value": "100"
             }
           ],
           "behaviors": [
@@ -3167,7 +3163,7 @@
               "parameters": [
                 "EnemyB",
                 "Health",
-                "25",
+                "50",
                 ""
               ],
               "subInstructions": []
@@ -3215,7 +3211,7 @@
               "parameters": [
                 "EnemyB",
                 "Health",
-                "25",
+                "110",
                 ""
               ],
               "subInstructions": []
@@ -3275,18 +3271,6 @@
             {
               "type": {
                 "inverted": false,
-                "value": "Timer"
-              },
-              "parameters": [
-                "",
-                "1",
-                "\"DamageCooldown\""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "BuiltinCommonInstructions::And"
               },
               "parameters": [],
@@ -3338,36 +3322,12 @@
             {
               "type": {
                 "inverted": false,
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "Player",
-                "Health",
-                "-",
-                "40"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "ChangeScaleWidth"
               },
               "parameters": [
                 "LifesBar",
                 "=",
-                "Player.Variable(Health)/25"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ResetTimer"
-              },
-              "parameters": [
-                "",
-                "\"DamageCooldown\""
+                "Player.Health::Health()/25"
               ],
               "subInstructions": []
             }
@@ -3379,18 +3339,6 @@
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "Timer"
-              },
-              "parameters": [
-                "",
-                "1.5",
-                "\"DamageCooldown\""
-              ],
-              "subInstructions": []
-            },
             {
               "type": {
                 "inverted": false,
@@ -3445,36 +3393,12 @@
             {
               "type": {
                 "inverted": false,
-                "value": "ModVarObjet"
-              },
-              "parameters": [
-                "Player",
-                "Health",
-                "-",
-                "60"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "ChangeScaleWidth"
               },
               "parameters": [
                 "LifesBar",
                 "=",
-                "Player.Variable(Health)/25"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ResetTimer"
-              },
-              "parameters": [
-                "",
-                "\"DamageCooldown\""
+                "Player.Health::Health()/25"
               ],
               "subInstructions": []
             }
